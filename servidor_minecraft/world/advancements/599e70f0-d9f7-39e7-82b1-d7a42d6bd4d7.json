@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-07-11 00:23:49 +0000"
+    },
+    "done": false
+  },
   "mca:root": {
     "criteria": {
       "village_plains": "2025-07-11 00:25:03 +0000"
@@ -28,12 +34,6 @@
       "seeds": "2025-07-11 00:25:03 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-07-11 00:23:49 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
