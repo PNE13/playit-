@@ -488,3 +488,31 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [12Jul2025 19:59:13.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> estoy en aldea xD
 [12Jul2025 19:59:27.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> -1088, 95, -768
 [12Jul2025 19:59:35.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ESTAS EN NARMIA TIA
+[12Jul2025 20:00:38.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Only players may be affected by this command, but the provided selector includes entities
+[12Jul2025 20:00:38.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: msg @e Bienvenidos a SagaHardFio les hablare mas de esto en un momento<--[HERE]
+[12Jul2025 20:01:00.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Only players may be affected by this command, but the provided selector includes entities
+[12Jul2025 20:01:00.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: msg @e Bienvenidos a SagaHardFio les hablare mas de esto en un momento<--[HERE]
+[12Jul2025 20:01:17.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Anzu_ara: Bienvenidos a SagaHardFio les hablare mas de esto en un momento
+[12Jul2025 20:01:17.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to C0LIGAMES: Bienvenidos a SagaHardFio les hablare mas de esto en un momento
+[12Jul2025 20:02:09.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> Bueno a tryhardear
+[12Jul2025 20:02:46.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> voa a buscar mi mause xd
+[12Jul2025 20:03:03.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> como se ve el voice chat?
+[12Jul2025 20:03:05.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[12Jul2025 20:03:13.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> entra pues a controles XD
+[12Jul2025 20:03:18.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> donde?
+[12Jul2025 20:03:31.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> escape pe cojuda XD
+[12Jul2025 20:03:47.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> donde que no me aparece voice chat xD
+[12Jul2025 20:03:58.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> en controles pndeja
+[12Jul2025 20:04:17.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> donde en controles gil}
+[12Jul2025 20:04:22.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[12Jul2025 20:04:33.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> presionas la tecla escape
+[12Jul2025 20:04:37.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> despues opciones
+[12Jul2025 20:04:41.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> y ahi esta controles
+[12Jul2025 20:04:49.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> 7-7 en que parte de controles we
+[12Jul2025 20:05:02.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> teclas
+[12Jul2025 20:07:14.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> ya me botan bye xd
+[12Jul2025 20:07:15.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[12Jul2025 20:07:15.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[12Jul2025 20:07:15.654] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[12Jul2025 20:07:16.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[12Jul2025 20:07:51.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Sweet Dreams]
