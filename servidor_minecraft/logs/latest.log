@@ -668,3 +668,124 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [12Jul2025 20:59:57.646] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [12Jul2025 20:59:57.646] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [12Jul2025 21:00:01.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
+[12Jul2025 21:00:53.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> hatea
+[12Jul2025 21:01:01.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya
+[12Jul2025 21:02:33.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> las saqueadores no andan con juegos
+[12Jul2025 21:02:51.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[12Jul2025 21:03:50.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was shot by Skeleton
+[12Jul2025 21:03:50.707] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.wolf_12.07.2025-21.03.50.dat
+[12Jul2025 21:03:52.046] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[12Jul2025 21:03:52.047] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[12Jul2025 21:03:53.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover fell from a high place
+[12Jul2025 21:03:54.450] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[12Jul2025 21:03:54.450] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[12Jul2025 21:09:10.711] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[12Jul2025 21:09:15.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES burned to death
+[12Jul2025 21:09:15.510] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.wolf_12.07.2025-21.09.15.dat
+[12Jul2025 21:09:16.948] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[12Jul2025 21:09:16.949] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[12Jul2025 21:09:20.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
+[12Jul2025 21:09:30.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> el first aid de mrd pe
+[12Jul2025 21:09:41.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> DEJA DE TIRAR FCTOS
+[12Jul2025 21:11:00.233] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Jul2025 21:11:00.234] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[12Jul2025 21:11:00.234] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[12Jul2025 21:14:02.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=64, z=537} BlockPos{x=161, y=62, z=537}
+[12Jul2025 21:14:41.772] [Worker-Main-1/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[12Jul2025 21:14:41.979] [Worker-Main-1/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:tall_seagrass
+[12Jul2025 21:15:03.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> we
+[12Jul2025 21:15:09.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> q paso?
+[12Jul2025 21:15:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> esta disponible el end?
+[12Jul2025 21:15:16.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> si
+[12Jul2025 21:15:26.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
+[12Jul2025 21:15:34.063] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Jul2025 21:15:34.064] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[12Jul2025 21:15:34.064] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[12Jul2025 21:17:09.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES fell from a high place
+[12Jul2025 21:17:09.121] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.wolf_12.07.2025-21.17.09.dat
+[12Jul2025 21:17:10.262] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[12Jul2025 21:17:10.263] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[12Jul2025 21:18:04.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ESTOY BUSCANDO DONDE HAARE MI CASA
+[12Jul2025 21:18:13.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> oe tan rapido?
+[12Jul2025 21:18:17.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SI
+[12Jul2025 21:18:27.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> preparate al menos no?
+[12Jul2025 21:18:36.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> nop
+[12Jul2025 21:19:15.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Swashbuckler]
+[12Jul2025 21:21:09.529] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=346, y=18, z=960} but found not block entity block Block{minecraft:water}[level=0] at location
+[12Jul2025 21:21:09.529] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=346, y=18, z=960}
+[12Jul2025 21:21:28.016] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Jul2025 21:21:28.016] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[12Jul2025 21:21:28.016] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[12Jul2025 21:21:33.527] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=621, y=29, z=924} but found not block entity block Block{minecraft:water}[level=0] at location
+[12Jul2025 21:21:33.528] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=621, y=29, z=924}
+[12Jul2025 21:21:35.130] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Jul2025 21:21:35.130] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[12Jul2025 21:21:35.130] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[12Jul2025 21:21:43.208] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=651, y=29, z=939} but found not block entity block Block{minecraft:water}[level=0] at location
+[12Jul2025 21:21:43.208] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=651, y=29, z=939}
+[12Jul2025 21:22:21.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was shot by Skeleton
+[12Jul2025 21:22:21.462] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.wolf_12.07.2025-21.22.21.dat
+[12Jul2025 21:22:22.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> materiales
+[12Jul2025 21:22:22.930] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[12Jul2025 21:22:22.930] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[12Jul2025 21:23:57.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ENCONTRE EL LUGAR PERFECTO
+[12Jul2025 21:24:01.117] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Jul2025 21:24:01.118] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[12Jul2025 21:24:01.118] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[12Jul2025 21:24:14.494] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=982, y=26, z=920} but found not block entity block Block{minecraft:water}[level=0] at location
+[12Jul2025 21:24:14.494] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=982, y=26, z=920}
+[12Jul2025 21:24:18.934] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=997, y=26, z=891} but found not block entity block Block{minecraft:water}[level=0] at location
+[12Jul2025 21:24:18.934] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=997, y=26, z=891}
+[12Jul2025 21:24:18.935] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=993, y=26, z=880} but found not block entity block Block{minecraft:water}[level=0] at location
+[12Jul2025 21:24:18.935] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=993, y=26, z=880}
+[12Jul2025 21:24:19.198] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1001, y=26, z=950} but found not block entity block Block{minecraft:water}[level=0] at location
+[12Jul2025 21:24:19.199] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1001, y=26, z=950}
+[12Jul2025 21:24:35.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ptm
+[12Jul2025 21:24:44.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> un dragon lo ocupo
+[12Jul2025 21:25:08.317] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=59, z=8}
+[12Jul2025 21:25:08.629] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Jul2025 21:25:08.630] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[12Jul2025 21:25:08.630] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[12Jul2025 21:25:17.828] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1001, y=21, z=624} but found not block entity block Block{minecraft:water}[level=8] at location
+[12Jul2025 21:25:17.828] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=1001, y=21, z=624}
+[12Jul2025 21:25:18.007] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=966, y=21, z=636} but found not block entity block Block{minecraft:water}[level=0] at location
+[12Jul2025 21:25:18.007] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=966, y=21, z=636}
+[12Jul2025 21:25:21.532] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=954, y=21, z=609} but found not block entity block Block{minecraft:water}[level=0] at location
+[12Jul2025 21:25:21.532] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=954, y=21, z=609}
+[12Jul2025 21:25:22.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=933, y=71, z=785} BlockPos{x=932, y=70, z=784}
+[12Jul2025 21:25:24.467] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=950, y=21, z=594} but found not block entity block Block{minecraft:water}[level=0] at location
+[12Jul2025 21:25:24.467] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=950, y=21, z=594}
+[12Jul2025 21:25:32.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ES MI CASA O EL DRAGON
+[12Jul2025 21:25:33.741] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=969, y=21, z=589} but found not block entity block Block{minecraft:water}[level=0] at location
+[12Jul2025 21:25:33.742] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=969, y=21, z=589}
+[12Jul2025 21:25:42.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tmr
+[12Jul2025 21:25:47.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> otro dragon
+[12Jul2025 21:26:22.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover burned to death
+[12Jul2025 21:26:23.599] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[12Jul2025 21:26:23.600] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[12Jul2025 21:26:25.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[12Jul2025 21:26:40.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Fire Dragon
+[12Jul2025 21:26:42.150] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[12Jul2025 21:26:42.150] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[12Jul2025 21:27:22.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover walked into fire whilst fighting Fire Dragon
+[12Jul2025 21:27:24.459] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[12Jul2025 21:27:24.460] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[12Jul2025 21:27:30.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2667ms or 53 ticks behind
+[12Jul2025 21:27:36.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -3.9402837804433375,-5.395846489753296,7.627451263574244
+[12Jul2025 21:27:41.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -6.86233265454473,-3.0,6.6998394280529965
+[12Jul2025 21:27:48.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -4.980172206502971,-2.0,8.57648408879345
+[12Jul2025 21:27:48.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> wat?
+[12Jul2025 21:27:48.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Jul2025 21:27:48.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Jul2025 21:27:48.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Server closed
+[12Jul2025 21:27:48.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[12Jul2025 21:27:48.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Jul2025 21:27:50.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Jul2025 21:27:51.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Jul2025 21:27:51.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Jul2025 21:27:51.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[12Jul2025 21:27:51.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Jul2025 21:27:51.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Jul2025 21:27:51.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Jul2025 21:27:51.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[12Jul2025 21:27:51.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
