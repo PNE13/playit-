@@ -5,6 +5,34 @@
   "skins": {},
   "player_scaling": {
     "599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7": {},
-    "ac52b3cf-fd3c-335b-bd53-67f31375a168": {}
+    "ac52b3cf-fd3c-335b-bd53-67f31375a168": {},
+    "ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd": {}
+  },
+  "player_scaling_settings": {},
+  "scaling_settings": {
+    "projectile_dmg": {},
+    "mining_speed": {},
+    "motion": {},
+    "third_person": {},
+    "hitbox_width": {},
+    "eye_height": {},
+    "mob_visibility": {},
+    "flight_speed": {},
+    "knockback_resist": {},
+    "reach": {},
+    "health": {},
+    "jump_height": {},
+    "attack_speed": {},
+    "explosion_dmg": {},
+    "view_bobbing": {},
+    "defense": {},
+    "attack_knockback": {},
+    "step_height": {},
+    "width": {},
+    "hitbox_height": {},
+    "attack_dmg": {},
+    "fall_damage": {},
+    "entity": {},
+    "height": {}
   }
 }
