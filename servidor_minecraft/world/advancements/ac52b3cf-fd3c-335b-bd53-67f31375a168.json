@@ -1739,21 +1739,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
+      "has_raw_gold": "2025-07-13 18:51:15 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/cestus": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
+      "has_raw_gold": "2025-07-13 18:51:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
-      "has_chicken": "2025-07-13 20:05:59 +0000"
+      "has_raw_gold": "2025-07-13 18:51:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-07-13 18:51:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-07-13 19:05:49 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/basic_from_chest": {
+    "criteria": {
+      "recipe_condition": "2025-07-13 19:05:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-07-13 19:05:49 +0000"
     },
     "done": true
   },
@@ -1763,45 +1787,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/grease_ball": {
-    "criteria": {
-      "has_meat": "2025-07-13 20:05:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-07-13 19:28:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-07-13 18:51:15 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_boomerang": {
     "criteria": {
       "has_copper_ingot": "2025-07-13 19:24:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-13 20:05:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-07-13 20:06:23 +0000"
     },
     "done": true
   },
@@ -1823,87 +1811,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-07-13 20:01:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-13 20:06:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-07-13 20:01:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2025-07-13 19:28:22 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/chicken": {
-    "criteria": {
-      "has_feather": "2025-07-13 20:01:31 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard_no_tanks": {
-    "criteria": {
-      "has_chest": "2025-07-13 19:05:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/horse": {
-    "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-07-13 19:28:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-13 19:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-07-13 18:51:15 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:greatsword": {
-    "criteria": {
-      "has_greatsword": "2025-07-13 20:03:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-07-13 20:06:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-07-13 19:24:51 +0000"
     },
     "done": true
   },
@@ -1913,39 +1823,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-07-13 18:51:15 +0000"
-    },
-    "done": true
-  },
   "toughasnails:recipes/tools/empty_copper_canteen": {
     "criteria": {
       "has_copper_ingot": "2025-07-13 19:24:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/skeleton": {
-    "criteria": {
-      "has_arrow": "2025-07-13 20:01:34 +0000"
-    },
-    "done": true
-  },
-  "hangglider:recipes/tools/glider_wing": {
-    "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-07-13 20:05:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
     },
     "done": true
   },
@@ -1961,12 +1841,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/bolt": {
-    "criteria": {
-      "has_feather": "2025-07-13 20:01:31 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_flanged_mace": {
     "criteria": {
       "has_copper_ingot": "2025-07-13 19:24:49 +0000"
@@ -1979,81 +1853,9 @@
     },
     "done": true
   },
-  "packedup:recipes/misc/basic_from_chest": {
-    "criteria": {
-      "recipe_condition": "2025-07-13 19:05:49 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:root": {
-    "criteria": {
-      "has_handle": "2025-07-13 20:01:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-07-13 20:05:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-07-13 19:28:22 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_arrow": {
-    "criteria": {
-      "has_feather": "2025-07-13 20:01:31 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_bolt": {
-    "criteria": {
-      "has_feather": "2025-07-13 20:01:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-07-13 19:24:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-07-13 20:06:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
-    },
-    "done": true
-  },
   "toughasnails:recipes/decorations/water_purifier": {
     "criteria": {
       "has_copper_ingot": "2025-07-13 19:24:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pig": {
-    "criteria": {
-      "has_porkchop": "2025-07-13 20:06:04 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cake": {
-    "criteria": {
-      "has_egg": "2025-07-13 20:06:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-07-13 20:06:23 +0000"
     },
     "done": true
   },
@@ -2063,111 +1865,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-07-13 20:06:23 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/leather_longbow": {
-    "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_meal": {
-    "criteria": {
-      "has_item": "2025-07-13 19:24:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/tools/empty_leather_canteen": {
-    "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-07-13 20:05:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/blindfold": {
-    "criteria": {
-      "has_item": "2025-07-13 20:13:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-07-13 20:01:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-07-13 19:28:22 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/rose_gold_dust": {
-    "criteria": {
-      "has_item": "2025-07-13 18:51:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-13 20:06:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-07-13 20:01:31 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/diamond_bolt": {
-    "criteria": {
-      "has_feather": "2025-07-13 20:01:31 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_warhammer": {
     "criteria": {
       "has_copper_ingot": "2025-07-13 19:24:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-07-13 20:01:07 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_battleaxe": {
     "criteria": {
       "has_copper_ingot": "2025-07-13 19:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-07-13 20:06:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-13 20:06:04 +0000"
     },
     "done": true
   },
@@ -2183,12 +1889,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/spider": {
-    "criteria": {
-      "has_string": "2025-07-13 20:01:07 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_lance": {
     "criteria": {
       "has_copper_ingot": "2025-07-13 19:24:49 +0000"
@@ -2198,48 +1898,6 @@
   "spartanweaponry:recipes/copper_javelin": {
     "criteria": {
       "has_copper_ingot": "2025-07-13 19:24:49 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:flanged_mace": {
-    "criteria": {
-      "has_flanged_mace": "2025-07-13 20:03:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-07-13 19:28:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/rotten_egg": {
-    "criteria": {
-      "bestiary": "2025-07-13 20:07:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-07-13 19:25:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/small_arrow_quiver": {
-    "criteria": {
-      "has_arrow": "2025-07-13 20:01:34 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/handle_from_string": {
-    "criteria": {
-      "has_string": "2025-07-13 20:01:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-13 20:06:23 +0000"
     },
     "done": true
   },
@@ -2255,33 +1913,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/leather_heavy_crossbow": {
-    "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard": {
-    "criteria": {
-      "has_chest": "2025-07-13 19:05:49 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_spear": {
     "criteria": {
       "has_copper_ingot": "2025-07-13 19:24:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/redstone": {
-    "criteria": {
-      "has_redstone": "2025-07-13 19:28:22 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_arrow": {
-    "criteria": {
-      "has_feather": "2025-07-13 20:01:31 +0000"
     },
     "done": true
   },
@@ -2303,48 +1937,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_arrow": {
-    "criteria": {
-      "has_feather": "2025-07-13 20:01:31 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/quiver_compartment": {
-    "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blank_upgrade": {
-    "criteria": {
-      "has_leather": "2025-07-13 20:13:03 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:longbow": {
-    "criteria": {
-      "has_longbow": "2025-07-13 20:01:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-07-13 19:28:22 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/potions": {
-    "criteria": {
-      "has_item": "2025-07-13 20:06:23 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/diamond_arrow": {
-    "criteria": {
-      "has_feather": "2025-07-13 20:01:31 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_longbow": {
     "criteria": {
       "has_copper_ingot": "2025-07-13 19:24:49 +0000"
@@ -2357,33 +1949,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-07-13 20:01:07 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/tools/thermometer": {
-    "criteria": {
-      "has_redstone": "2025-07-13 19:28:22 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/decorations/rain_collector": {
-    "criteria": {
-      "has_string": "2025-07-13 20:01:07 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_saber": {
     "criteria": {
       "has_copper_ingot": "2025-07-13 19:24:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-07-13 19:24:51 +0000"
     },
     "done": true
   },
@@ -2399,21 +1967,100 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_mutton": "2025-07-13 19:25:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2025-07-13 20:01:07 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-07-13 19:24:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-07-13 19:24:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-07-13 19:24:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-07-13 19:24:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-07-13 19:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-13 19:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-07-13 19:25:30 +0000",
+      "porkchop": "2025-07-13 21:28:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-13 19:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-13 19:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-13 19:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-13 19:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-13 19:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-13 19:28:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-07-13 19:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-13 19:28:22 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/thermometer": {
+    "criteria": {
+      "has_redstone": "2025-07-13 19:28:22 +0000"
     },
     "done": true
   },
@@ -2423,9 +2070,375 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-07-13 20:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-13 20:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-13 20:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-13 20:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-13 20:01:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-07-13 20:01:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-07-13 20:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-13 20:01:07 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/rain_collector": {
+    "criteria": {
+      "has_string": "2025-07-13 20:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-13 20:01:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-07-13 20:01:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-07-13 20:01:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-07-13 20:01:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-13 20:01:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-07-13 20:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-13 20:01:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-07-13 20:01:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-13 20:01:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-13 20:01:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-13 20:01:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-07-13 20:01:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-07-13 20:01:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2025-07-13 20:03:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-07-13 20:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-13 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_meat": "2025-07-13 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-13 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-13 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-13 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-13 20:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-13 20:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-13 20:06:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-07-13 20:06:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-13 20:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-13 20:06:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-13 20:06:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-07-13 20:06:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-13 20:06:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-07-13 20:06:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-07-13 20:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-13 20:06:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-13 20:06:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-07-13 20:06:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-07-13 20:06:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-07-13 20:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_leather_canteen": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-07-13 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-13 21:38:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-13 21:38:06 +0000"
     },
     "done": true
   },
