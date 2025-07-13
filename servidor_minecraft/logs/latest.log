@@ -744,3 +744,200 @@ Reason: Banned by an operator.
 [13Jul2025 22:06:21.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
 [13Jul2025 22:06:21.833] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
 [13Jul2025 22:07:40.436] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[13Jul2025 22:10:36.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> puse cama xd
+[13Jul2025 22:11:50.473] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@698f1920[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:59177) lost connection: Disconnected
+[13Jul2025 22:12:03.073] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3252ff10[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:39809) lost connection: Disconnected
+[13Jul2025 22:12:25.173] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b16b45b[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:45231) lost connection: Disconnected
+[13Jul2025 22:12:31.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:60569] logged in with entity id 14551 at (-1145.9136808594512, 87.0, -463.29061625462793)
+[13Jul2025 22:12:31.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[13Jul2025 22:12:31.758] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[13Jul2025 22:12:32.243] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[13Jul2025 22:12:32.244] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[13Jul2025 22:12:38.364] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 22:12:39.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 22:12:39.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[13Jul2025 22:12:43.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> en el mini map
+[13Jul2025 22:12:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> hay cama xd ven
+[13Jul2025 22:13:48.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Diamonds!]
+[13Jul2025 22:14:09.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> y el dragon?
+[13Jul2025 22:14:23.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> era el que nos ataco y escapo xd
+[13Jul2025 22:14:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> q?
+[13Jul2025 22:14:53.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> escap
+[13Jul2025 22:15:04.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> desperte un spawner xd
+[13Jul2025 22:15:06.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> hacia donde?
+[13Jul2025 22:15:17.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> al otro que me ataaco?
+[13Jul2025 22:16:28.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[13Jul2025 22:16:43.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> -1344 166 y -740 creo xd
+[13Jul2025 22:17:06.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> hi?
+[13Jul2025 22:17:12.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[13Jul2025 22:17:39.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> weeeeeeeeeeeeeeeeeeeee???????
+[13Jul2025 22:17:52.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[13Jul2025 22:17:52.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[13Jul2025 22:17:52.173] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[13Jul2025 22:17:57.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:35055] logged in with entity id 15389 at (-1112.5, 95.0, -487.5)
+[13Jul2025 22:17:57.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[13Jul2025 22:17:58.015] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[13Jul2025 22:17:58.381] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[13Jul2025 22:17:58.382] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[13Jul2025 22:18:02.092] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 22:18:03.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 22:18:03.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[13Jul2025 22:18:18.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> folow me
+[13Jul2025 22:19:31.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> aca esta+
+[13Jul2025 22:19:47.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES burned to death
+[13Jul2025 22:19:47.089] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.wolf_13.07.2025-22.19.47.dat
+[13Jul2025 22:19:48.580] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 22:19:48.580] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 22:20:31.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Fire Dragon
+[13Jul2025 22:20:32.449] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 22:20:32.449] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jul2025 22:20:42.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ayuda mrd
+[13Jul2025 22:20:44.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was incinerated by Fire Dragon
+[13Jul2025 22:20:45.706] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 22:20:45.707] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jul2025 22:20:46.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES burned to death
+[13Jul2025 22:20:48.425] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 22:20:48.425] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 22:20:51.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Fire Dragon
+[13Jul2025 22:20:52.882] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 22:20:52.882] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Jul2025 22:20:57.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> me rompio la cama mierrrrrrrrrrrrr
+[13Jul2025 22:21:02.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was incinerated by Fire Dragon
+[13Jul2025 22:21:04.321] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 22:21:04.321] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jul2025 22:21:06.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> estoy en 0 0 tp
+[13Jul2025 22:21:11.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was incinerated by Fire Dragon
+[13Jul2025 22:21:12.458] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 22:21:12.458] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jul2025 22:21:17.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Fire Dragon
+[13Jul2025 22:21:18.738] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 22:21:18.739] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 22:21:26.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> bie nahi
+[13Jul2025 22:21:28.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> no joda :>
+[13Jul2025 22:21:41.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> chido
+[13Jul2025 22:21:53.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> y que hacemos?
+[13Jul2025 22:22:06.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> ir
+[13Jul2025 22:22:09.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[13Jul2025 22:22:31.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pa que te separas pe
+[13Jul2025 22:25:11.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> haker 7n7+
+[13Jul2025 22:25:13.257] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-823, y=9, z=-240} but found not block entity block Block{minecraft:water}[level=0] at location
+[13Jul2025 22:25:13.257] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-823, y=9, z=-240}
+[13Jul2025 22:25:22.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> Y QUIEN MANDO A SEPARARSE MRD?
+[13Jul2025 22:25:24.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tmr
+[13Jul2025 22:25:25.260] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Jul2025 22:25:25.260] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[13Jul2025 22:25:25.261] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[13Jul2025 22:25:25.582] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-842, y=9, z=-267} but found not block entity block Block{minecraft:water}[level=8] at location
+[13Jul2025 22:25:25.582] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-842, y=9, z=-267}
+[13Jul2025 22:25:27.414] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-857, y=9, z=-267} but found not block entity block Block{minecraft:water}[level=0] at location
+[13Jul2025 22:25:27.414] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-857, y=9, z=-267}
+[13Jul2025 22:25:29.409] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-872, y=9, z=-263} but found not block entity block Block{minecraft:water}[level=0] at location
+[13Jul2025 22:25:29.410] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-872, y=9, z=-263}
+[13Jul2025 22:25:29.427] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-872, y=9, z=-283} but found not block entity block Block{minecraft:water}[level=0] at location
+[13Jul2025 22:25:29.427] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-872, y=9, z=-283}
+[13Jul2025 22:26:15.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
+[13Jul2025 22:28:05.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> que sea de noche
+[13Jul2025 22:29:43.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Fire Dragon
+[13Jul2025 22:29:44.575] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 22:29:44.575] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 22:30:43.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
+[13Jul2025 22:30:56.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was turned into KFC by Fire Dragon
+[13Jul2025 22:30:57.722] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 22:30:57.723] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 22:31:25.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[13Jul2025 22:31:25.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[13Jul2025 22:31:25.132] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[13Jul2025 22:32:29.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[13Jul2025 22:32:29.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[13Jul2025 22:32:29.121] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[13Jul2025 22:33:48.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:42537] logged in with entity id 24342 at (-1166.300000011921, 102.41999998688698, -725.6261833481449)
+[13Jul2025 22:33:48.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[13Jul2025 22:33:48.194] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[13Jul2025 22:33:52.145] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[13Jul2025 22:33:52.145] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[13Jul2025 22:34:00.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 22:34:01.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 22:34:01.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[13Jul2025 22:36:02.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Take Aim, Chaps!]
+[13Jul2025 22:36:05.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[13Jul2025 22:36:05.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[13Jul2025 22:36:05.619] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[13Jul2025 22:36:35.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:34931] logged in with entity id 25533 at (-1139.655575726681, 115.55321338701523, -629.3000000119209)
+[13Jul2025 22:36:35.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[13Jul2025 22:36:35.342] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[13Jul2025 22:36:36.380] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[13Jul2025 22:36:36.380] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[13Jul2025 22:36:38.053] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[13Jul2025 22:36:39.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[13Jul2025 22:36:39.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[13Jul2025 22:37:28.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Zombie
+[13Jul2025 22:37:29.765] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 22:37:29.765] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jul2025 22:38:40.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:36821] logged in with entity id 26257 at (-1183.806973639406, 103.0, -726.7604947872561)
+[13Jul2025 22:38:40.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[13Jul2025 22:38:40.301] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[13Jul2025 22:38:41.233] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[13Jul2025 22:38:41.233] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[13Jul2025 22:38:46.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 22:38:47.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 22:38:47.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[13Jul2025 22:38:59.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Spider
+[13Jul2025 22:39:00.780] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 22:39:00.780] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 22:39:01.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> me saco, me lagee y mientras escribia me mato xd
+[13Jul2025 22:39:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Made Anzu_ara a server operator]
+[13Jul2025 22:39:13.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya matalo rapido
+[13Jul2025 22:39:16.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> te di op
+[13Jul2025 22:39:22.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anzu_ara: Set own game mode to Creative Mode]
+[13Jul2025 22:39:36.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anzu_ara: Teleported Anzu_ara to -1176.500000, 119.500000, -660.500000]
+[13Jul2025 22:40:16.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> y el dragon?
+[13Jul2025 22:40:27.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[13Jul2025 22:41:47.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> lo encontre
+[13Jul2025 22:41:54.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> a l0s 2?
+[13Jul2025 22:41:58.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to Anzu_ara]
+[13Jul2025 22:42:33.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> buena
+[13Jul2025 22:42:38.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[13Jul2025 22:42:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Dragonslayer]
+[13Jul2025 22:42:55.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> me
+[13Jul2025 22:42:59.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> oe
+[13Jul2025 22:43:08.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> chistosa
+[13Jul2025 22:43:25.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> y la sangre?
+[13Jul2025 22:43:27.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ?
+[13Jul2025 22:43:31.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> k
+[13Jul2025 22:43:42.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> este dragon lo enconte yo
+[13Jul2025 22:43:46.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> tu tenias las botellas xd
+[13Jul2025 22:43:46.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> revisa las coords si quieres
+[13Jul2025 22:43:53.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> eso es mio
+[13Jul2025 22:44:04.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[13Jul2025 22:44:26.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Made Anzu_ara no longer a server operator]
+[13Jul2025 22:44:39.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> cual xd el tuyo era bajo tierra
+[13Jul2025 22:44:49.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> a
+[13Jul2025 22:44:52.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> me acorde
+[13Jul2025 22:44:54.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ptma
+[13Jul2025 22:44:58.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> asi estamos on
+[13Jul2025 22:45:05.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set Anzu_ara's game mode to Survival Mode]
+[13Jul2025 22:45:15.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> weeeeee
+[13Jul2025 22:45:18.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> ya peeeeeeeee
+[13Jul2025 22:45:18.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[13Jul2025 22:45:21.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> :"C
+[13Jul2025 22:45:24.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> que?
+[13Jul2025 22:45:29.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[13Jul2025 22:45:35.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> nisiquiera saque el aliento xd
+[13Jul2025 22:45:42.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[13Jul2025 22:45:47.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> se jode pe
+[13Jul2025 22:46:00.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1087.500000, 95.500000, -767.500000]
+[13Jul2025 22:46:00.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> ademas estoy atrapada y sin pico xd
+[13Jul2025 22:46:12.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[13Jul2025 22:46:16.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[13Jul2025 22:46:16.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[13Jul2025 22:46:16.083] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[13Jul2025 22:46:34.774] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23d8e9a9[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:39025) lost connection: Disconnected
+[13Jul2025 22:46:39.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:41145] logged in with entity id 29960 at (-1079.437877350205, 115.0, -726.6999999880791)
+[13Jul2025 22:46:39.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[13Jul2025 22:46:39.374] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[13Jul2025 22:46:39.762] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[13Jul2025 22:46:39.762] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[13Jul2025 22:46:42.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 22:46:43.088] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 22:46:43.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[13Jul2025 22:47:55.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> basura
