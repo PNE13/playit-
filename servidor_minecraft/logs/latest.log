@@ -439,3 +439,29 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Jul2025 02:48:04.812] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [13Jul2025 02:48:04.813] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [13Jul2025 02:48:04.813] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Jul2025 02:56:43.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[13Jul2025 02:56:43.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[13Jul2025 02:56:43.099] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[13Jul2025 02:57:11.752] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:38829] logged in with entity id 1967 at (-1076.300000011921, 115.0, -736.1025663285465)
+[13Jul2025 02:57:11.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[13Jul2025 02:57:11.794] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[13Jul2025 02:57:45.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[13Jul2025 02:57:45.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[13Jul2025 02:57:45.943] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[13Jul2025 02:59:54.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:59253] logged in with entity id 2265 at (-1076.300000011921, 115.0, -736.1025663285465)
+[13Jul2025 02:59:54.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[13Jul2025 02:59:54.780] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[13Jul2025 03:01:24.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[13Jul2025 03:01:24.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[13Jul2025 03:01:24.143] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[13Jul2025 03:05:10.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:54579] logged in with entity id 2668 at (-1076.300000011921, 115.0, -736.1025663285465)
+[13Jul2025 03:05:10.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[13Jul2025 03:05:10.777] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[13Jul2025 03:05:12.053] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[13Jul2025 03:05:12.054] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[13Jul2025 03:05:17.843] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 03:05:18.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 03:05:18.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[13Jul2025 03:07:56.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[13Jul2025 03:07:56.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[13Jul2025 03:07:56.541] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
