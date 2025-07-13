@@ -15330,3 +15330,51 @@ Reason: Banned by an operator.
 [13Jul2025 22:48:50.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Jul2025 22:48:57.773] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [13Jul2025 22:48:57.773] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[13Jul2025 22:49:24.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [A Rogue's Best Friend]
+[13Jul2025 22:53:11.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[13Jul2025 22:53:11.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[13Jul2025 22:53:11.273] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Anzu_ara
+[13Jul2025 22:53:11.273] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[13Jul2025 22:53:11.282] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.306] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.326] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.342] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.369] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.389] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.411] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.427] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.441] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.473] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.484] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.514] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.533] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.547] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.566] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.585] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.605] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.624] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.648] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.666] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.687] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.701] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.733] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.748] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.770] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.784] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.802] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.822] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.857] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.863] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.885] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.907] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.924] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.955] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:11.977] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 does not have a secret
+[13Jul2025 22:53:50.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 22:53:50.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 22:58:50.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 22:58:50.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 23:03:50.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 23:03:50.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 23:08:50.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 23:08:50.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

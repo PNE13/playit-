@@ -2851,9 +2851,45 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/platinum_battleaxe": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-07-13 22:43:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_longsword": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_glaive": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_battle_hammer": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_parrying_dagger": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
     },
     "done": true
   },
@@ -2863,9 +2899,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_dagger": {
     "criteria": {
       "has_dragon_bone": "2025-07-13 22:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 22:48:57 +0000"
     },
     "done": true
   },
@@ -2881,6 +2929,24 @@
     },
     "done": true
   },
+  "spartanweaponry:dagger": {
+    "criteria": {
+      "has_dagger": "2025-07-13 22:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_warhammer": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_scythe": {
     "criteria": {
       "has_dragon_bone": "2025-07-13 22:43:07 +0000"
@@ -2890,6 +2956,18 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2025-07-13 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_flanged_mace": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
     },
     "done": true
   },
@@ -2905,15 +2983,75 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/platinum_longsword": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_dagger": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_quarterstaff": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_glaive": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_halberd": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2025-07-13 22:43:07 +0000"
     },
     "done": true
   },
+  "spartanshields:recipes/platinum_tower_shield": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_scythe": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_greatsword": {
     "criteria": {
       "has_dragon_bone": "2025-07-13 22:43:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_battleaxe": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_javelin": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
     },
     "done": true
   },
@@ -2935,6 +3073,30 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/platinum_heavy_crossbow": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_greatsword": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/platinum_basic_shield": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_lance": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-07-13 22:43:07 +0000"
@@ -2944,6 +3106,12 @@
   "spartanfire:recipes/dragon_bone_throwing_knife": {
     "criteria": {
       "has_dragon_bone": "2025-07-13 22:43:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_boomerang": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
     },
     "done": true
   },
@@ -2965,6 +3133,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_greatsword": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_spear": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_parrying_dagger": {
     "criteria": {
       "has_dragon_bone": "2025-07-13 22:43:07 +0000"
@@ -2977,9 +3157,33 @@
     },
     "done": true
   },
+  "spartanshields:recipes/tin_tower_shield": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_longsword": {
     "criteria": {
       "has_dragon_bone": "2025-07-13 22:43:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_tomahawk": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_rapier": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_flanged_mace": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
     },
     "done": true
   },
@@ -2989,9 +3193,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-13 22:49:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-07-13 22:43:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_scythe": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
     },
     "done": true
   },
@@ -3001,15 +3223,75 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/platinum_dagger": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_saber": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_quarterstaff": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_longbow": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-13 22:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_lance": {
     "criteria": {
       "has_dragon_bone": "2025-07-13 22:43:07 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-07-13 22:43:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-07-13 22:49:12 +0000"
     },
     "done": true
   },
@@ -3022,6 +3304,18 @@
   "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
       "has_dragonscales_gray": "2025-07-13 22:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 22:48:57 +0000"
     },
     "done": true
   },
@@ -3043,9 +3337,63 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_heavy_crossbow": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_saber": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-13 22:49:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_tomahawk": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_battle_hammer": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_javelin": {
     "criteria": {
       "has_dragon_bone": "2025-07-13 22:43:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_parrying_dagger": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-13 22:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_pike": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
     },
     "done": true
   },
@@ -3055,9 +3403,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_warhammer": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_spear": {
     "criteria": {
       "has_dragon_bone": "2025-07-13 22:43:07 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/tin_basic_shield": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_longbow": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
     },
     "done": true
   },
@@ -3067,9 +3433,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_pike": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_spear": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2025-07-13 22:43:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_lance": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_throwing_knife": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
     },
     "done": true
   },
@@ -3079,15 +3481,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_katana": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-07-13 22:43:07 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/platinum_javelin": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_heavy_crossbow": {
     "criteria": {
       "has_dragon_bone": "2025-07-13 22:43:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_halberd": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
     },
     "done": true
   },
@@ -3103,9 +3523,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/platinum_boomerang": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_quarterstaff": {
     "criteria": {
       "has_dragon_bone": "2025-07-13 22:43:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_katana": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_rapier": {
+    "criteria": {
+      "has_tin_ingot": "2025-07-13 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_throwing_knife": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 22:48:57 +0000"
     },
     "done": true
   },

@@ -941,3 +941,7 @@ Reason: Banned by an operator.
 [13Jul2025 22:46:43.088] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
 [13Jul2025 22:46:43.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
 [13Jul2025 22:47:55.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> basura
+[13Jul2025 22:49:24.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [A Rogue's Best Friend]
+[13Jul2025 22:53:11.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[13Jul2025 22:53:11.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[13Jul2025 22:53:11.273] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
