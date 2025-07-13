@@ -3299,5 +3299,317 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_scythe": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_battleaxe": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_battle_hammer": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_pike": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_heavy_crossbow": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_throwing_knife": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_lance": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_warhammer": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_flanged_mace": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_longsword": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_spear": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_longsword": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_greatsword": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_quarterstaff": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_glaive": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_rapier": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/platinum_tower_shield": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_scythe": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_parrying_dagger": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_battleaxe": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_heavy_crossbow": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_greatsword": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lead_tower_shield": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/platinum_basic_shield": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_lance": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_boomerang": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_saber": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_flanged_mace": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_rapier": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_dagger": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_glaive": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_katana": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_quarterstaff": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_saber": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_tomahawk": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_halberd": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_battle_hammer": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_warhammer": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_parrying_dagger": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_tomahawk": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lead_basic_shield": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_longbow": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_pike": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_dagger": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_spear": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_javelin": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_longbow": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_javelin": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_halberd": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_boomerang": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_katana": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/platinum_throwing_knife": {
+    "criteria": {
+      "has_platinum_ingot": "2025-07-13 21:13:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
