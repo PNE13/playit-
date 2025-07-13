@@ -945,3 +945,56 @@ Reason: Banned by an operator.
 [13Jul2025 22:53:11.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
 [13Jul2025 22:53:11.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
 [13Jul2025 22:53:11.273] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[13Jul2025 23:15:08.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 6:15 empezamos
+[13Jul2025 23:17:50.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unbanned joaocover
+[13Jul2025 23:20:48.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:56747] logged in with entity id 34555 at (887.3566225525228, 71.0, 832.8354751898293)
+[13Jul2025 23:20:48.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[13Jul2025 23:20:48.095] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[13Jul2025 23:20:48.737] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[13Jul2025 23:20:48.737] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[13Jul2025 23:20:50.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[13Jul2025 23:20:51.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[13Jul2025 23:20:51.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[13Jul2025 23:20:59.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> holas
+[13Jul2025 23:21:01.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> hatea
+[13Jul2025 23:21:02.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no tengo cama
+[13Jul2025 23:21:06.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tmr
+[13Jul2025 23:21:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tonces seraa el siguiente dragon
+[13Jul2025 23:21:51.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=909, y=72, z=849} BlockPos{x=908, y=71, z=848}
+[13Jul2025 23:22:13.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Isn't It Iron Pick]
+[13Jul2025 23:22:28.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ironico XD
+[13Jul2025 23:22:39.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> shuuu
+[13Jul2025 23:22:48.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> YO YA MAATE A UN DRAGON
+[13Jul2025 23:22:54.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> anzu tambien
+[13Jul2025 23:23:09.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MNMNMNM SERA UN PROBLEMA
+[13Jul2025 23:23:51.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1067, y=-31, z=-740} BlockPos{x=-1068, y=-32, z=-740}
+[13Jul2025 23:23:52.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MIS CASA TIENEN UBICACIONES DONDE NO ME FALTA NADA XD
+[13Jul2025 23:23:55.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1074, y=-32, z=-740} BlockPos{x=-1073, y=-32, z=-739}
+[13Jul2025 23:23:55.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1074, y=-32, z=-740} BlockPos{x=-1073, y=-32, z=-739}
+[13Jul2025 23:24:54.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> byron speed run de matarse l dragon electrico?
+[13Jul2025 23:25:07.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[13Jul2025 23:26:38.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> causas dejron inutil al silver
+[13Jul2025 23:27:15.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[13Jul2025 23:27:15.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[13Jul2025 23:27:15.480] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[13Jul2025 23:29:42.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=-44, z=-725} BlockPos{x=-1067, y=-44, z=-725}
+[13Jul2025 23:29:42.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=-44, z=-725} BlockPos{x=-1067, y=-44, z=-725}
+[13Jul2025 23:29:42.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=-44, z=-725} BlockPos{x=-1067, y=-44, z=-725}
+[13Jul2025 23:30:11.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:58579] logged in with entity id 38290 at (948.1462041751223, 27.0, 813.6319152500838)
+[13Jul2025 23:30:11.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[13Jul2025 23:30:11.649] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[13Jul2025 23:30:12.305] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[13Jul2025 23:30:12.306] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[13Jul2025 23:30:13.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[13Jul2025 23:30:14.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[13Jul2025 23:30:14.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[13Jul2025 23:30:21.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[13Jul2025 23:30:25.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TOY CON LAG
+[13Jul2025 23:33:37.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[13Jul2025 23:33:56.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[13Jul2025 23:34:29.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[13Jul2025 23:35:03.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[13Jul2025 23:37:03.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> minesahf
+[13Jul2025 23:38:11.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TEAM DE MRD
+[13Jul2025 23:38:26.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> los carrys XD
+[13Jul2025 23:38:49.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> dejaa de tirar factos
