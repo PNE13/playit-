@@ -503,3 +503,6 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Jul2025 20:03:22.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Smash And Bash!]
 [13Jul2025 20:03:40.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [A Cut Above the Rest]
 [13Jul2025 20:07:49.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Rotten to the Core]
+[13Jul2025 20:17:35.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[13Jul2025 20:17:35.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[13Jul2025 20:17:35.381] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
