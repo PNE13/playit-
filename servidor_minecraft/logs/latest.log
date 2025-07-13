@@ -613,3 +613,134 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Jul2025 21:47:25.349] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [itemphysic:main,creativecore:main] rejected their client side version number
 [13Jul2025 21:47:25.350] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [13Jul2025 21:47:25.377] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f041ef1[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:39717) lost connection: Connection closed - mismatched mod channel list
+[13Jul2025 21:48:39.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd???
+[13Jul2025 21:48:52.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> no escucho ni pi
+[13Jul2025 21:49:04.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tienes que poner /voicechat en el chat
+[13Jul2025 21:49:33.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> yyyyyyyyyyyyy?
+[13Jul2025 21:50:05.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[13Jul2025 21:50:05.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[13Jul2025 21:50:05.129] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[13Jul2025 21:50:46.675] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ea5b73d[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.59.47.31:46887) lost connection: Disconnected
+[13Jul2025 21:52:18.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:46989] logged in with entity id 8323 at (-1113.1697110009216, 96.0, -596.6987960316362)
+[13Jul2025 21:52:18.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[13Jul2025 21:52:18.504] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[13Jul2025 21:52:18.831] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[13Jul2025 21:52:18.831] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[13Jul2025 21:52:21.553] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[13Jul2025 21:52:23.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> entraaa
+[13Jul2025 21:52:23.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[13Jul2025 21:52:23.773] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[13Jul2025 21:52:43.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Take Aim]
+[13Jul2025 21:53:25.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was burnt to a crisp whilst fighting Fire Dragon
+[13Jul2025 21:53:27.432] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 21:53:27.433] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jul2025 21:53:35.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Fire Dragon
+[13Jul2025 21:53:35.823] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.wolf_13.07.2025-21.53.35.dat
+[13Jul2025 21:53:37.008] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 21:53:37.009] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Jul2025 21:53:46.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> NO SEAS DEJE AHI ABAJO LA PTA CAMA
+[13Jul2025 21:53:53.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> :C}
+[13Jul2025 21:53:59.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was incinerated by Fire Dragon
+[13Jul2025 21:54:01.128] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 21:54:01.129] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 21:54:06.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:40769] logged in with entity id 9012 at (887.3566225525228, 71.0, 832.8354751898293)
+[13Jul2025 21:54:06.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[13Jul2025 21:54:06.076] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[13Jul2025 21:54:07.870] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[13Jul2025 21:54:07.871] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[13Jul2025 21:54:08.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
+[13Jul2025 21:54:11.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Banned joaocover: Banned by an operator.]
+[13Jul2025 21:54:11.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: You are banned from this server
+[13Jul2025 21:54:11.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[13Jul2025 21:54:11.755] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[13Jul2025 21:54:13.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[13Jul2025 21:54:15.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> lo banie
+[13Jul2025 21:54:19.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was burnt to a crisp whilst fighting Fire Dragon
+[13Jul2025 21:54:21.235] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 21:54:21.235] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 21:54:35.478] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b30ea48[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:58359) lost connection: Disconnected
+[13Jul2025 21:54:41.035] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@ad980b0[id=ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd,name=joaocover,properties={},legacy=false] (/127.108.89.213:59187): You are banned from this server.
+Reason: Banned by an operator.
+[13Jul2025 21:54:41.036] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ad980b0[id=ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd,name=joaocover,properties={},legacy=false] (/127.108.89.213:59187) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[13Jul2025 21:54:41.080] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Jul2025 21:54:54.028] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@45bbb39a[id=ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd,name=joaocover,properties={},legacy=false] (/127.108.89.213:39115): You are banned from this server.
+Reason: Banned by an operator.
+[13Jul2025 21:54:54.029] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45bbb39a[id=ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd,name=joaocover,properties={},legacy=false] (/127.108.89.213:39115) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[13Jul2025 21:54:54.076] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Jul2025 21:55:06.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was incinerated by Fire Dragon
+[13Jul2025 21:55:08.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[13Jul2025 21:55:08.582] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 21:55:08.582] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jul2025 21:55:10.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[13Jul2025 21:55:14.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> :>>>>>>>>>
+[13Jul2025 21:55:32.332] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d28bb71[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:47937) lost connection: Disconnected
+[13Jul2025 21:55:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES burned to death
+[13Jul2025 21:55:34.580] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 21:55:34.581] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 21:55:35.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was incinerated by Fire Dragon
+[13Jul2025 21:55:37.476] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 21:55:37.476] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 21:55:46.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> distraelo peeeeeeeeeeeeee
+[13Jul2025 21:55:48.739] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7fa1015a[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:36097) lost connection: Disconnected
+[13Jul2025 21:56:07.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was turned into KFC by Fire Dragon
+[13Jul2025 21:56:08.798] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 21:56:08.798] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jul2025 21:56:14.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was turned into KFC by Fire Dragon
+[13Jul2025 21:56:15.727] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 21:56:15.728] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 21:56:29.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was burnt to a crisp whilst fighting Fire Dragon
+[13Jul2025 21:56:30.776] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 21:56:30.777] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jul2025 21:57:15.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Fire Dragon
+[13Jul2025 21:57:17.376] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 21:57:17.376] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 21:57:34.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was burnt to a crisp whilst fighting Fire Dragon
+[13Jul2025 21:57:36.134] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 21:57:36.134] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 21:58:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was incinerated by Fire Dragon
+[13Jul2025 21:58:02.377] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 21:58:02.377] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 21:58:05.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> BUENA
+[13Jul2025 21:58:08.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> TE DIJE ENTRA
+[13Jul2025 21:58:12.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[13Jul2025 21:58:35.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> quien chucha crees que le distrajo?
+[13Jul2025 21:58:42.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[13Jul2025 21:58:43.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> 7n7
+[13Jul2025 21:58:44.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya esta
+[13Jul2025 21:58:47.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> se fue
+[13Jul2025 21:59:41.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tienes r XD
+[13Jul2025 22:00:09.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> atras tuyo
+[13Jul2025 22:00:15.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[13Jul2025 22:00:22.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> follow me
+[13Jul2025 22:00:26.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> traje otra cama :v
+[13Jul2025 22:00:31.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> fue xd
+[13Jul2025 22:00:33.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pera
+[13Jul2025 22:00:56.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> que me vez he >:v
+[13Jul2025 22:01:00.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[13Jul2025 22:01:07.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> estoy hablando
+[13Jul2025 22:01:09.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> lo de whats >:"C
+[13Jul2025 22:01:14.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[13Jul2025 22:01:15.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pera
+[13Jul2025 22:01:17.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pongo cama
+[13Jul2025 22:01:28.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> acepta la invitacion de voicechat
+[13Jul2025 22:02:45.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[13Jul2025 22:02:45.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[13Jul2025 22:02:45.275] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[13Jul2025 22:02:46.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was shot by Skeleton
+[13Jul2025 22:02:48.087] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jul2025 22:02:48.087] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jul2025 22:06:01.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:57753] logged in with entity id 12584 at (-1145.7436960920772, 88.02442408821369, -463.67272578004537)
+[13Jul2025 22:06:01.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[13Jul2025 22:06:01.673] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[13Jul2025 22:06:02.904] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[13Jul2025 22:06:02.904] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[13Jul2025 22:06:10.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 22:06:11.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[13Jul2025 22:06:11.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[13Jul2025 22:06:20.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Swashbuckler]
+[13Jul2025 22:06:21.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[13Jul2025 22:06:21.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[13Jul2025 22:06:21.833] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[13Jul2025 22:07:40.436] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
