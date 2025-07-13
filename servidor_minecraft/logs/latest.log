@@ -472,3 +472,22 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [13Jul2025 18:35:35.845] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
 [13Jul2025 18:35:36.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
 [13Jul2025 18:35:36.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[13Jul2025 18:44:53.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara moved too quickly! -7.064623308230239,7.2481359985909455,0.13053805892411674
+[13Jul2025 18:44:57.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara was kicked for floating too long!
+[13Jul2025 18:44:57.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Flying is not enabled on this server
+[13Jul2025 18:44:57.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[13Jul2025 18:44:57.926] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[13Jul2025 18:45:20.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:39299] logged in with entity id 9477 at (-1099.6374291136672, -2.246800019478798, -767.5705831552374)
+[13Jul2025 18:45:20.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[13Jul2025 18:45:20.868] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[13Jul2025 18:45:21.672] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[13Jul2025 18:45:21.672] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[13Jul2025 18:45:23.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[13Jul2025 18:45:24.731] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[13Jul2025 18:45:24.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[13Jul2025 18:48:58.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 timed out
+[13Jul2025 18:48:58.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Anzu_ara
+[13Jul2025 18:48:58.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[13Jul2025 18:49:06.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[13Jul2025 18:49:06.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[13Jul2025 18:49:06.331] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
