@@ -3277,5 +3277,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-13 03:25:57 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-07-13 03:25:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
