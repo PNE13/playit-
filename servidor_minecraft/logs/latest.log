@@ -521,3 +521,18 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [14Jul2025 00:29:02.671] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=972, y=9, z=362}
 [14Jul2025 00:29:12.824] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=976, y=9, z=343} but found not block entity block Block{minecraft:water}[level=0] at location
 [14Jul2025 00:29:12.824] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=976, y=9, z=343}
+[14Jul2025 00:33:03.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -5.544654552030352,-7.940207891414687,3.8016498951482163
+[14Jul2025 00:35:36.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[14Jul2025 00:35:36.685] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_14.07.2025-00.35.36.dat
+[14Jul2025 00:35:37.839] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jul2025 00:35:37.840] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[14Jul2025 00:36:00.096] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[14Jul2025 00:36:00.446] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[14Jul2025 00:36:55.640] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[14Jul2025 00:36:55.904] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[14Jul2025 00:37:04.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZZZZZ
+[14Jul2025 00:37:17.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no god
+[14Jul2025 00:37:59.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[14Jul2025 00:37:59.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[14Jul2025 00:37:59.241] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[14Jul2025 00:39:44.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Hunt and Gather]
