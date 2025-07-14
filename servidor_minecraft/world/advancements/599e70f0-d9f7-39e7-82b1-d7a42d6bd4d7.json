@@ -111,6 +111,7 @@
       "minecraft:spider": "2025-07-12 21:16:25 +0000",
       "minecraft:creeper": "2025-07-12 21:40:34 +0000",
       "minecraft:cave_spider": "2025-07-12 20:52:19 +0000",
+      "minecraft:enderman": "2025-07-14 00:54:12 +0000",
       "minecraft:zombie": "2025-07-12 19:46:52 +0000"
     },
     "done": false
@@ -4459,9 +4460,27 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-07-14 00:39:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-07-14 00:35:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-07-14 00:39:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-07-14 00:39:44 +0000"
     },
     "done": true
   },

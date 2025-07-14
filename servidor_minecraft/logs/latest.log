@@ -536,3 +536,20 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [14Jul2025 00:37:59.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
 [14Jul2025 00:37:59.241] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
 [14Jul2025 00:39:44.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Hunt and Gather]
+[14Jul2025 00:48:58.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZZZZZZZ
+[14Jul2025 00:54:22.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[14Jul2025 00:54:22.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[14Jul2025 00:54:22.676] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[14Jul2025 00:54:32.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Jul2025 00:54:32.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Jul2025 00:54:32.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Jul2025 00:54:32.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Jul2025 00:54:32.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Jul2025 00:54:32.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Jul2025 00:54:32.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Jul2025 00:54:32.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[14Jul2025 00:54:32.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Jul2025 00:54:32.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Jul2025 00:54:32.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Jul2025 00:54:32.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[14Jul2025 00:54:32.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
