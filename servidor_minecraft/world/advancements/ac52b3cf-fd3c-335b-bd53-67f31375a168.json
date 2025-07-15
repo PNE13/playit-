@@ -3596,9 +3596,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-14 23:29:03 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
     },
     "done": true
   },
@@ -3686,6 +3698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-15 00:07:01 +0000"
@@ -3698,6 +3716,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-07-14 23:57:09 +0000"
@@ -3707,6 +3731,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-07-15 00:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-15 00:41:04 +0000"
     },
     "done": true
   },
@@ -3728,6 +3758,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/pink_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-14 23:28:16 +0000"
@@ -3746,9 +3782,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-07-14 23:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-15 00:41:04 +0000"
     },
     "done": true
   },
@@ -3764,6 +3812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/magenta_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-15 00:07:01 +0000"
@@ -3776,15 +3830,33 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/cyan_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-15 00:07:01 +0000"
     },
     "done": true
   },
+  "mca:recipes/decorations/magenta_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-07-15 00:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-15 00:41:04 +0000"
     },
     "done": true
   },
@@ -3836,15 +3908,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-14 23:29:03 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-14 23:29:03 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
     },
     "done": true
   },
@@ -3857,6 +3959,24 @@
   "mca:recipes/decorations/brown_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-15 00:07:01 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
     },
     "done": true
   },
@@ -3896,9 +4016,27 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/black_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-15 00:07:01 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
     },
     "done": true
   },
@@ -3917,6 +4055,18 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-15 00:07:01 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_dark_oak_crib": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-07-15 00:41:04 +0000"
     },
     "done": true
   },
