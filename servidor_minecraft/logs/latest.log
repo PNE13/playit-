@@ -561,3 +561,17 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [15Jul2025 02:17:55.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
 [15Jul2025 02:17:55.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
 [15Jul2025 02:17:55.817] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[15Jul2025 02:24:21.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[15Jul2025 02:24:25.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Jul2025 02:24:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Jul2025 02:24:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Jul2025 02:24:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Jul2025 02:24:25.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Jul2025 02:24:25.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Jul2025 02:24:25.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[15Jul2025 02:24:25.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Jul2025 02:24:25.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Jul2025 02:24:25.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Jul2025 02:24:25.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[15Jul2025 02:24:25.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Jul2025 02:24:25.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
