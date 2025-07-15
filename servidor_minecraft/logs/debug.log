@@ -7206,3 +7206,14 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [15Jul2025 00:05:02.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jul2025 00:07:19.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Anzu_ara: como vas?
 [15Jul2025 00:07:37.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> la entrada
+[15Jul2025 00:10:02.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 00:10:02.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 00:13:06.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Anzu_ara: tmr sigo con la misma webada XD
+[15Jul2025 00:13:31.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> *2
+[15Jul2025 00:15:02.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 00:15:02.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 00:16:05.536] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jul2025 00:16:05.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jul2025 00:16:06.437] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jul2025 00:16:09.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jul2025 00:16:09.788] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
