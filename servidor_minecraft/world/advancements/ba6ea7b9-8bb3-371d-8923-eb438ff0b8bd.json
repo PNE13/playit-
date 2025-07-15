@@ -3871,5 +3871,17 @@
     },
     "done": true
   },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-07-15 02:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-15 02:16:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

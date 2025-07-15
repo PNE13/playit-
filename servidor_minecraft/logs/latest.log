@@ -482,3 +482,82 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [15Jul2025 01:55:41.723] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [15Jul2025 01:55:41.723] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [15Jul2025 02:00:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> weno
+[15Jul2025 02:01:22.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was turned into KFC by Fire Dragon
+[15Jul2025 02:01:23.658] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:01:23.659] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jul2025 02:01:38.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover walked into fire whilst fighting Fire Dragon
+[15Jul2025 02:01:39.792] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:01:39.792] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jul2025 02:02:39.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Fire Dragon
+[15Jul2025 02:02:40.656] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:02:40.657] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jul2025 02:03:05.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was burnt to a crisp whilst fighting Fire Dragon
+[15Jul2025 02:03:06.705] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:03:06.706] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jul2025 02:03:30.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lara'/10917, l='ServerLevel[world]', x=849.49, y=68.00, z=662.45] died, message: 'Lara burned to death'
+[15Jul2025 02:03:30.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lara'/10917, l='ServerLevel[world]', x=849.49, y=68.00, z=662.45] died: Lara burned to death
+[15Jul2025 02:04:17.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was turned into KFC by Fire Dragon
+[15Jul2025 02:04:19.073] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:04:19.075] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jul2025 02:04:26.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: ya?
+[15Jul2025 02:04:33.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PERA
+[15Jul2025 02:05:15.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was turned into KFC by Fire Dragon
+[15Jul2025 02:05:16.557] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:05:16.557] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jul2025 02:05:38.007] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Bilal}[style={}] has been infected
+[15Jul2025 02:05:38.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Fire Dragon
+[15Jul2025 02:05:40.106] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:05:40.107] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jul2025 02:05:51.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was turned into KFC by Fire Dragon
+[15Jul2025 02:05:52.300] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:05:52.300] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jul2025 02:06:03.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Fire Dragon
+[15Jul2025 02:06:04.711] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:06:04.711] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jul2025 02:07:15.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was incinerated by Fire Dragon
+[15Jul2025 02:07:16.498] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:07:16.498] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jul2025 02:07:39.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Fire Dragon
+[15Jul2025 02:07:40.830] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:07:40.831] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jul2025 02:08:10.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover burned to death
+[15Jul2025 02:08:11.879] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:08:11.879] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jul2025 02:08:35.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was incinerated by Fire Dragon
+[15Jul2025 02:08:37.083] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:08:37.083] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jul2025 02:08:43.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Fire Dragon
+[15Jul2025 02:08:45.082] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:08:45.082] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jul2025 02:11:26.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> sigues ahi?
+[15Jul2025 02:13:04.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was turned into KFC by Fire Dragon
+[15Jul2025 02:13:06.306] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:13:06.306] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jul2025 02:14:13.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was burnt to a crisp whilst fighting Fire Dragon
+[15Jul2025 02:14:14.556] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:14:14.557] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jul2025 02:14:40.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover Hugged to death
+[15Jul2025 02:14:41.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 10.548583678087198,-10.854893299348362,-3.3341800281731366
+[15Jul2025 02:14:42.057] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:14:42.057] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jul2025 02:15:10.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover walked into fire whilst fighting Fire Dragon
+[15Jul2025 02:15:11.666] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:15:11.666] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jul2025 02:15:55.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Fire Dragon
+[15Jul2025 02:15:56.566] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:15:56.566] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jul2025 02:16:17.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Fire Dragon
+[15Jul2025 02:16:18.983] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:16:18.983] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jul2025 02:16:34.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Fire Dragon
+[15Jul2025 02:16:36.014] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:16:36.015] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jul2025 02:16:51.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was turned into KFC by Fire Dragon
+[15Jul2025 02:16:52.561] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:16:52.561] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Jul2025 02:17:50.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Fire Dragon
+[15Jul2025 02:17:51.791] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Jul2025 02:17:51.791] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Jul2025 02:17:55.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[15Jul2025 02:17:55.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[15Jul2025 02:17:55.817] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
