@@ -1,6 +1,4 @@
-#Set to true to disable steel weapo
 traits = {}
-loot = {}
 
 [lead]
 	#Base Damage for lead weapons
@@ -370,4 +368,5 @@ loot = {}
 	base_damage = 2.0
 	#Durability for bronze weapons
 	#Range: 1 ~ 100000
-	
+	durability = 320
+	#Set to true to disable bron

@@ -1,16 +1,3 @@
-#Set to true to disable steel weapo
-traits = {}
-loot = {}
-
-[lead]
-	#Base Damage for lead weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 2.0
-	#Durability for lead weapons
-	#Range: 1 ~ 100000
-	durability = 240
-	#Set to true to disable lead weapons
-	disable = false
 
 [dagger]
 	#Disables all recipes for all Daggers.
@@ -370,4 +357,15 @@ loot = {}
 	base_damage = 2.0
 	#Durability for bronze weapons
 	#Range: 1 ~ 100000
-	
+	durability = 320
+	#Set to true to disable bronze weapons
+	disable = false
+
+[steel]
+	#Base Damage for steel weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 2.5
+	#Durability for steel weapons
+	#Range: 1 ~ 100000
+	durability = 480
+	#Set to true to disable steel weapo
