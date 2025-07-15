@@ -7120,3 +7120,30 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [15Jul2025 11:24:44.369] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJxJ+Xz8+WV8+bvty9+bc+mSy98zfi9tXkn
 [15Jul2025 11:26:10.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jul2025 11:26:10.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 11:31:10.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 11:31:10.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 11:35:32.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anzu_ara: Teleported Anzu_ara to -1143.500000, 89.500000, -554.500000]
+[15Jul2025 11:35:32.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3606ms or 72 ticks behind
+[15Jul2025 11:36:14.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 11:36:14.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 11:37:51.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[15Jul2025 11:37:51.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[15Jul2025 11:37:51.177] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Anzu_ara
+[15Jul2025 11:37:51.177] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[15Jul2025 11:38:22.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Jul2025 11:38:22.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Jul2025 11:38:22.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Jul2025 11:38:22.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Jul2025 11:38:22.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Jul2025 11:38:22.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[15Jul2025 11:38:22.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Jul2025 11:38:22.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Jul2025 11:38:22.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 11:38:22.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 11:38:22.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Jul2025 11:38:22.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[15Jul2025 11:38:22.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Jul2025 11:38:22.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Jul2025 11:38:22.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Jul2025 11:38:22.819] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[15Jul2025 11:38:22.819] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
