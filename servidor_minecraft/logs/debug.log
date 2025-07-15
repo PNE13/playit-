@@ -7613,3 +7613,79 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [15Jul2025 20:27:19.265] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [15Jul2025 20:27:19.265] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [15Jul2025 20:27:19.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jul2025 20:27:23.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jul2025 20:27:26.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jul2025 20:27:28.764] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jul2025 20:27:33.364] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jul2025 20:27:37.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jul2025 20:27:37.913] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[15Jul2025 20:27:52.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 20:27:52.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 20:30:30.717] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Jul2025 20:32:52.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 20:32:52.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 20:35:18.403] [Worker-Main-17/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[15Jul2025 20:35:20.384] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-622, y=65, z=-882}
+[15Jul2025 20:35:20.384] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[15Jul2025 20:35:20.384] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[15Jul2025 20:35:20.384] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJOJxx+Xz89v0hPtuPf
+[15Jul2025 20:35:23.232] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[15Jul2025 20:35:23.233] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[15Jul2025 20:35:23.234] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[15Jul2025 20:35:26.618] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-591, y=24, z=-920} but found not block entity block Block{minecraft:water}[level=0] at location
+[15Jul2025 20:35:26.618] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-591, y=24, z=-920}
+[15Jul2025 20:35:28.360] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-560, y=24, z=-905} but found not block entity block Block{minecraft:water}[level=0] at location
+[15Jul2025 20:35:28.360] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-560, y=24, z=-905}
+[15Jul2025 20:35:40.782] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-623, y=71, z=-1039}
+[15Jul2025 20:35:40.783] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[15Jul2025 20:35:40.783] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[15Jul2025 20:35:40.783] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJOOWOOL986WPveOPvefv0hxxx97fSPtpJ
+[15Jul2025 20:35:51.580] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-319, y=67, z=-818}
+[15Jul2025 20:35:51.581] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[15Jul2025 20:35:51.581] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 7
+[15Jul2025 20:35:51.581] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJxJ+WXvzfk+bz+nv0yXmfntz9+WWXvk+eefvk9uXz9+VuXvzzzz9898mS+fk
+[15Jul2025 20:35:54.845] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-623, y=71, z=-1072}
+[15Jul2025 20:35:54.845] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[15Jul2025 20:35:54.845] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 5
+[15Jul2025 20:35:54.845] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOOJxxxxP067nr80OP0nXXtxL+tQ7+bZOJ7k6WKxP0nvtxP16
+[15Jul2025 20:36:07.449] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-190, y=69, z=-768}
+[15Jul2025 20:36:07.450] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[15Jul2025 20:36:07.450] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[15Jul2025 20:36:07.450] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJP0076X1uXf0+Snb71vf
+[15Jul2025 20:36:07.478] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-191, y=69, z=-761}
+[15Jul2025 20:36:07.478] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[15Jul2025 20:36:07.478] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[15Jul2025 20:36:07.478] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJx+X0nvyXzenv0j9t+Sy9+b09f0mS+fnty+fvzb+ki9S
+[15Jul2025 20:36:07.481] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-192, y=70, z=-753}
+[15Jul2025 20:36:07.481] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[15Jul2025 20:36:07.481] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[15Jul2025 20:36:07.481] [Worker-Main-17/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJxP0n1vzfS+mnft16+ek+vfS06+k0+fX1uq7fzenfS0+t6
+[15Jul2025 20:36:32.921] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-3, y=72, z=-596}
+[15Jul2025 20:36:32.921] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[15Jul2025 20:36:32.921] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[15Jul2025 20:36:32.921] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJJ+Xj+b09+kfuXvyU+bv0i9r
+[15Jul2025 20:36:41.825] [Worker-Main-19/DEBUG] [mixin/]: Mixing compat116plus.VillagerBreedTaskMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[15Jul2025 20:36:46.221] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=56, y=13, z=-623} but found not block entity block Block{minecraft:water}[level=1] at location
+[15Jul2025 20:36:46.221] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=56, y=13, z=-623}
+[15Jul2025 20:37:52.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 20:37:52.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 20:41:27.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Bonfire Lit]
+[15Jul2025 20:42:25.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Hot Stuff]
+[15Jul2025 20:42:52.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2025 20:42:52.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2025 20:46:47.762] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-258, y=64, z=257}
+[15Jul2025 20:46:47.762] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[15Jul2025 20:46:47.762] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 6
+[15Jul2025 20:46:47.762] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJxPXyy98z8+Sy8+bz+nv0mXntz9+Syy98+bzz98+ky8z89uS+b9v
+[15Jul2025 20:46:48.531] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-284, y=64, z=258}
+[15Jul2025 20:46:48.531] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[15Jul2025 20:46:48.531] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[15Jul2025 20:46:48.531] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJx+X0nvyXzenv0j9t+Sy9+b09f0mS+fnty+fvzb+ki9S
+[15Jul2025 20:46:55.071] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-344, y=69, z=148}
+[15Jul2025 20:46:55.071] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:birch}
+[15Jul2025 20:46:55.071] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[15Jul2025 20:46:55.072] [Worker-Main-39/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJxZuKOP1678hJOJx+vz66
+[15Jul2025 20:46:56.408] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-212, y=64, z=289}
+[15Jul2025 20:46:56.408] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[15Jul2025 20:46:56.408] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[15Jul2025 20:46:56.408] [Worker-Main-18/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJJ+Xj+b09+kfuXvyU+bv0i9r

@@ -26,6 +26,7 @@
       "minecraft:beach": "2025-07-15 10:54:15 +0000",
       "minecraft:river": "2025-07-12 20:01:47 +0000",
       "minecraft:dripstone_caves": "2025-07-13 18:20:33 +0000",
+      "minecraft:snowy_taiga": "2025-07-15 20:36:15 +0000",
       "minecraft:jagged_peaks": "2025-07-13 22:29:39 +0000",
       "minecraft:forest": "2025-07-12 20:01:33 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-13 22:24:05 +0000",
@@ -4296,6 +4297,66 @@
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-07-15 10:54:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-07-15 20:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-15 20:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-15 20:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-15 20:42:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-15 20:31:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-07-15 20:31:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-07-15 20:31:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-07-15 20:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-07-15 20:42:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-07-15 20:41:24 +0000"
     },
     "done": true
   },

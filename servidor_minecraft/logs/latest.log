@@ -441,3 +441,14 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [15Jul2025 20:16:42.489] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [15Jul2025 20:16:42.489] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [15Jul2025 20:22:01.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara moved too quickly! -9.990468285484212,0.0,1.108928391660811
+[15Jul2025 20:35:23.232] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[15Jul2025 20:35:23.233] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[15Jul2025 20:35:23.234] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[15Jul2025 20:35:26.618] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-591, y=24, z=-920} but found not block entity block Block{minecraft:water}[level=0] at location
+[15Jul2025 20:35:26.618] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-591, y=24, z=-920}
+[15Jul2025 20:35:28.360] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-560, y=24, z=-905} but found not block entity block Block{minecraft:water}[level=0] at location
+[15Jul2025 20:35:28.360] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-560, y=24, z=-905}
+[15Jul2025 20:36:46.221] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=56, y=13, z=-623} but found not block entity block Block{minecraft:water}[level=1] at location
+[15Jul2025 20:36:46.221] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=56, y=13, z=-623}
+[15Jul2025 20:41:27.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Bonfire Lit]
+[15Jul2025 20:42:25.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Hot Stuff]
