@@ -4227,27 +4227,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-07-15 10:37:09 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/food/glow_berry_juice": {
     "criteria": {
       "has_glow_berries": "2025-07-15 10:39:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
-      "has_bone_meal": "2025-07-15 10:40:05 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/food/apple_juice": {
-    "criteria": {
-      "has_apple": "2025-07-15 10:54:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-07-15 10:54:48 +0000"
+      "has_any_ingredient": "2025-07-15 10:39:43 +0000"
     },
     "done": true
   },
@@ -4257,15 +4251,9 @@
     },
     "done": false
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_any_ingredient": "2025-07-15 10:39:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-07-15 10:37:09 +0000"
+      "has_bone_meal": "2025-07-15 10:40:05 +0000"
     },
     "done": true
   },
@@ -4275,9 +4263,9 @@
     },
     "done": true
   },
-  "mca:recipes/misc/family_tree": {
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
     "criteria": {
-      "has_item": "2025-07-15 10:52:14 +0000"
+      "has_weathered_cut_copper_slab": "2025-07-15 10:44:06 +0000"
     },
     "done": true
   },
@@ -4293,9 +4281,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
+  "mca:recipes/misc/family_tree": {
     "criteria": {
-      "has_weathered_cut_copper_slab": "2025-07-15 10:44:06 +0000"
+      "has_item": "2025-07-15 10:52:14 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-07-15 10:54:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-15 10:54:48 +0000"
     },
     "done": true
   },
