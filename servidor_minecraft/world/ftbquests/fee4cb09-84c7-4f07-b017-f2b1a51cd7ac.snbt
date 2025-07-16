@@ -1,0 +1,16 @@
+{
+	version: 1
+	uuid: "fee4cb0984c74f07b017f2b1a51cd7ac"
+	name: "Prueba#fee4cb09"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: {
+		d4de9ca50c643e3d8474c32e496ad4e8: {
+			can_edit: 1b
+		}
+	}
+}
