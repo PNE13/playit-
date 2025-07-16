@@ -7,6 +7,8 @@
 	order_index: 0
 	quest_links: [ ]
 	quests: [{
+		can_repeat: true
+		hide_lock_icon: true
 		id: "7DC6048A0C32D898"
 		rewards: [{
 			count: 4

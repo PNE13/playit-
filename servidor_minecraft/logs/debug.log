@@ -8519,3 +8519,32 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Jul2025 21:45:04.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> sabes cual?
 [16Jul2025 21:45:33.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> nop xd?
 [16Jul2025 21:45:47.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SUPONGO QUE SERA ESTA
+[16Jul2025 21:47:19.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[16Jul2025 21:47:19.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[16Jul2025 21:47:19.580] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of joaocover
+[16Jul2025 21:47:19.580] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[16Jul2025 21:47:45.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 21:47:45.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 21:49:45.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> voy a detener el server un momento
+[16Jul2025 21:49:47.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero lost connection: Disconnected
+[16Jul2025 21:49:47.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero left the game
+[16Jul2025 21:49:47.819] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ServerZero
+[16Jul2025 21:49:47.819] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ServerZero
+[16Jul2025 21:49:47.851] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player d4de9ca5-0c64-3e3d-8474-c32e496ad4e8 does not have a secret
+[16Jul2025 21:49:51.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Jul2025 21:49:51.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jul2025 21:49:51.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jul2025 21:49:51.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jul2025 21:49:51.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Jul2025 21:49:51.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Jul2025 21:49:51.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Jul2025 21:49:51.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[16Jul2025 21:49:51.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 21:49:51.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 21:49:51.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jul2025 21:49:51.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jul2025 21:49:51.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jul2025 21:49:51.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[16Jul2025 21:49:51.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Jul2025 21:49:51.716] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[16Jul2025 21:49:51.716] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
