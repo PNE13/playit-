@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-07-16 21:35:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-07-16 21:35:07 +0000",
@@ -30,6 +24,12 @@
       "minecraft:plains": "2025-07-16 21:31:10 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-07-16 21:35:34 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
