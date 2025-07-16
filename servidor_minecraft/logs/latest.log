@@ -810,3 +810,37 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Jul2025 21:35:03.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ServerZero a server operator
 [16Jul2025 21:35:26.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Set own game mode to Creative Mode]
 [16Jul2025 21:35:48.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Editing Mode for 'ServerZero' Enabled]
+[16Jul2025 21:38:16.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:51999] logged in with entity id 1378 at (834.5, 68.0, 593.5)
+[16Jul2025 21:38:16.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[16Jul2025 21:38:16.370] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[16Jul2025 21:38:17.308] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[16Jul2025 21:38:17.308] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[16Jul2025 21:38:19.105] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[16Jul2025 21:38:21.108] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[16Jul2025 21:38:21.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[16Jul2025 21:39:28.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover died from hugs while running away Grotesque steve
+[16Jul2025 21:39:31.007] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jul2025 21:39:31.008] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[16Jul2025 21:40:00.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover burned to death
+[16Jul2025 21:40:02.024] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jul2025 21:40:02.025] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Jul2025 21:40:18.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:57473] logged in with entity id 3265 at (-1085.284404089273, 114.0, -729.1505691412324)
+[16Jul2025 21:40:18.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[16Jul2025 21:40:18.134] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[16Jul2025 21:40:19.545] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[16Jul2025 21:40:19.545] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[16Jul2025 21:40:24.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[16Jul2025 21:40:26.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[16Jul2025 21:40:26.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[16Jul2025 21:41:27.794] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[16Jul2025 21:41:58.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> we mi hierro :>?
+[16Jul2025 21:43:34.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> hola
+[16Jul2025 21:43:40.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> a
+[16Jul2025 21:43:42.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> hi xd
+[16Jul2025 21:43:49.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> COMO TE LLAMAS?
+[16Jul2025 21:43:58.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> ???
+[16Jul2025 21:44:02.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=889, y=71, z=839} BlockPos{x=889, y=69, z=839}
+[16Jul2025 21:44:23.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MI HERMANO DIJO QUE APLANAR UNA ZON
+[16Jul2025 21:45:04.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> sabes cual?
+[16Jul2025 21:45:33.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> nop xd?
+[16Jul2025 21:45:47.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SUPONGO QUE SERA ESTA

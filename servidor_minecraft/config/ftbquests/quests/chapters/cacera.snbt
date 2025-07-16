@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cacera"
+	group: ""
+	id: "06E98C2982AB5FFE"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "7DC6048A0C32D898"
+		rewards: [{
+			count: 4
+			id: "5E378890D7D1A263"
+			item: "dedsafio3:dedita"
+			type: "item"
+		}]
+		tasks: [{
+			entity: "minecraft:zombie"
+			icon: "easy_npc:zombie_spawn_egg"
+			id: "2A82B97A233AF285"
+			title: "Kill Zombies"
+			type: "kill"
+			value: 50L
+		}]
+		x: -0.5d
+		y: -0.5d
+	}]
+	title: "Cacería"
+}
