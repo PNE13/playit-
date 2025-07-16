@@ -7729,3 +7729,52 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16Jul2025 20:57:08.890] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [16Jul2025 20:57:09.441] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [16Jul2025 20:57:28.393] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bento'/8835, l='ServerLevel[world]', x=-1017.64, y=112.00, z=-726.30] died, message: 'Bento was slain by Zombie'
+[16Jul2025 20:57:29.949] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 20:57:30.549] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 20:57:31.793] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 20:57:32.398] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 20:57:32.400] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[16Jul2025 20:58:01.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 20:58:01.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 21:00:30.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 21:00:32.590] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 21:00:33.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 21:00:33.688] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hun'/9186, l='ServerLevel[world]', x=-1015.12, y=112.00, z=-727.88] died, message: 'Hun was slain by Anzu_ara'
+[16Jul2025 21:00:44.990] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 21:00:45.591] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 21:00:46.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 21:00:46.341] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilídio'/9039, l='ServerLevel[world]', x=-1017.55, y=112.00, z=-727.13] died, message: 'Ilídio was slain by Anzu_ara'
+[16Jul2025 21:02:36.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 21:02:37.445] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 21:02:38.093] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 21:02:38.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Diogo'/9236, l='ServerLevel[world]', x=-1017.71, y=112.00, z=-727.71] died, message: 'Diogo was slain by Anzu_ara'
+[16Jul2025 21:03:01.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 21:03:01.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 21:03:26.895] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 21:03:27.476] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 21:03:28.041] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[16Jul2025 21:03:28.041] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Matias'/9454, l='ServerLevel[world]', x=-1017.70, y=112.00, z=-726.60] died, message: 'Matias was slain by Anzu_ara'
+[16Jul2025 21:04:26.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anzu_ara: Gamerule keepInventory is now set to: false]
+[16Jul2025 21:04:30.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anzu_ara: Set own game mode to Survival Mode]
+[16Jul2025 21:04:36.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anzu_ara: Made Anzu_ara no longer a server operator]
+[16Jul2025 21:04:39.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[16Jul2025 21:04:39.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[16Jul2025 21:04:39.141] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Anzu_ara
+[16Jul2025 21:04:39.141] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[16Jul2025 21:07:08.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Jul2025 21:07:08.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jul2025 21:07:08.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jul2025 21:07:08.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jul2025 21:07:08.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Jul2025 21:07:08.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Jul2025 21:07:08.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[16Jul2025 21:07:08.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Jul2025 21:07:08.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 21:07:08.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 21:07:08.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jul2025 21:07:08.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jul2025 21:07:08.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[16Jul2025 21:07:08.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jul2025 21:07:08.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Jul2025 21:07:08.983] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[16Jul2025 21:07:08.984] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
