@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-16 23:32:49 +0000",
       "minecraft:river": "2025-07-16 21:35:07 +0000",
       "minecraft:forest": "2025-07-16 21:34:45 +0000",
       "minecraft:plains": "2025-07-16 21:31:10 +0000"
@@ -84,6 +85,12 @@
       "slept_in_bed": "2025-07-16 23:20:14 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-16 23:29:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
@@ -193,6 +200,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-16 23:29:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-07-16 23:08:35 +0000"
@@ -232,6 +245,12 @@
   "spartanweaponry:recipes/wooden_longbow": {
     "criteria": {
       "has_wood": "2025-07-16 23:12:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-16 23:29:33 +0000"
     },
     "done": true
   },
@@ -304,6 +323,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-07-16 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-07-16 23:31:50 +0000"
     },
     "done": true
   },
@@ -421,9 +446,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-16 23:29:33 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-16 23:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-16 23:29:32 +0000"
     },
     "done": true
   },
