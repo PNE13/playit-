@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "9316072540023d1f9267650f17d3bbf0"
+	name: "asrielmanrique#93160725"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
