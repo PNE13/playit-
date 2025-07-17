@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-17 00:23:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-07-16 23:19:11 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-07-17 00:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-16 23:49:23 +0000"
@@ -271,6 +283,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-17 00:23:48 +0000",
+      "minecraft:spider": "2025-07-17 00:28:00 +0000",
+      "minecraft:witch": "2025-07-17 00:24:47 +0000",
       "minecraft:zombie": "2025-07-16 23:32:10 +0000"
     },
     "done": false
@@ -332,6 +347,12 @@
   "spartanweaponry:recipes/wooden_saber": {
     "criteria": {
       "has_wood": "2025-07-16 23:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-17 00:28:02 +0000"
     },
     "done": true
   },
@@ -530,6 +551,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-16 23:52:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-07-17 00:25:12 +0000"
     },
     "done": true
   },
@@ -1193,9 +1220,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-17 00:28:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_boomerang": {
     "criteria": {
       "has_iron_ingot": "2025-07-16 23:52:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-07-17 00:30:12 +0000"
     },
     "done": true
   },
@@ -1280,6 +1319,12 @@
   "spartanweaponry:battleaxe": {
     "criteria": {
       "has_battleaxe": "2025-07-16 23:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-17 00:28:02 +0000"
     },
     "done": true
   },
@@ -1409,9 +1454,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-17 00:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-16 23:58:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-07-17 00:28:02 +0000"
     },
     "done": true
   },
@@ -1523,6 +1580,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-07-17 00:25:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-17 00:20:40 +0000"
@@ -1538,6 +1601,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-07-16 23:45:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-07-17 00:28:02 +0000"
     },
     "done": true
   },
@@ -1643,6 +1712,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-17 00:30:13 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2025-07-16 23:30:54 +0000"
@@ -1676,6 +1751,12 @@
   "toughasnails:recipes/combat/wool_boots": {
     "criteria": {
       "has_wool": "2025-07-16 23:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-17 00:28:02 +0000"
     },
     "done": true
   },
@@ -1763,9 +1844,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-17 00:23:48 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_greatsword": {
     "criteria": {
       "has_iron_ingot": "2025-07-16 23:52:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-07-17 00:23:48 +0000"
     },
     "done": true
   },
@@ -1841,6 +1934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-17 00:28:02 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-16 23:19:11 +0000"
@@ -1892,6 +1991,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-16 23:52:20 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/rain_collector": {
+    "criteria": {
+      "has_string": "2025-07-17 00:28:02 +0000"
     },
     "done": true
   },
@@ -2029,6 +2134,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-07-16 23:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-17 00:28:02 +0000"
     },
     "done": true
   },

@@ -12,8 +12,8 @@
 			hide_lock_icon: true
 			id: "7DC6048A0C32D898"
 			rewards: [{
-				count: 4
-				id: "5E378890D7D1A263"
+				count: 6
+				id: "43CC1CD36D1EBD61"
 				item: "dedsafio3:dedita"
 				type: "item"
 			}]
@@ -32,7 +32,7 @@
 			can_repeat: true
 			id: "1CB5D3181200442D"
 			rewards: [{
-				count: 4
+				count: 6
 				id: "7A90B651A5954DE2"
 				item: "dedsafio3:dedita"
 				type: "item"
@@ -46,6 +46,78 @@
 			}]
 			x: -1.5d
 			y: -0.5d
+		}
+		{
+			id: "1FBD5C7D78B8CBA2"
+			rewards: [{
+				count: 6
+				id: "7683F2D3300A933E"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:creeper"
+				icon: "minecraft:creeper_head"
+				id: "6B0FD4B5A9E2B260"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			id: "1734F14E44577251"
+			rewards: [{
+				count: 6
+				id: "42E6712ECB83D2CE"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:enderman"
+				icon: "spartanweaponry:enderman_head"
+				id: "1A4046D35A7FC8F5"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "6814FF5A8323090B"
+			rewards: [{
+				count: 6
+				id: "09D4E0D0DB4EC6D0"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:spider"
+				icon: "spartanweaponry:spider_head"
+				id: "528E5D4361E5EDBF"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			id: "0DC65FC74D894F2C"
+			rewards: [{
+				count: 6
+				id: "5929C554F2F583F4"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:cave_spider"
+				icon: "spartanweaponry:cave_spider_head"
+				id: "25706C62ABCA2DD6"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: 1.5d
 		}
 	]
 	title: "Cacería"
