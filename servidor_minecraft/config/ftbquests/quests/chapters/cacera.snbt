@@ -176,25 +176,6 @@
 				type: "kill"
 				value: 25L
 			}]
-			x: -3.0d
-			y: -0.5d
-		}
-		{
-			can_repeat: false
-			id: "62EAE17190D33300"
-			rewards: [{
-				count: 12
-				id: "42212286230CB91E"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
-			tasks: [{
-				dimension: "minecraft:the_nether"
-				icon: "minecraft:netherrack"
-				id: "03D79A52E9C9FF16"
-				type: "dimension"
-			}]
-			title: "Entra al nether"
 			x: -2.0d
 			y: -0.5d
 		}
@@ -233,7 +214,7 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: -3.0d
+			x: -2.0d
 			y: 0.5d
 		}
 		{
@@ -278,7 +259,7 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: -3.0d
+			x: -2.0d
 			y: -1.5d
 		}
 	]

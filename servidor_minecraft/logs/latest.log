@@ -199,3 +199,135 @@
 [17Jul2025 00:50:35.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [Take Aim]
 [17Jul2025 00:50:48.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> habla pe
 [17Jul2025 00:50:50.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 00:54:50.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:39885] logged in with entity id 26049 at (900.9184815493205, 71.0, 862.2881417695512)
+[17Jul2025 00:54:50.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[17Jul2025 00:54:50.044] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[17Jul2025 00:54:53.507] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[17Jul2025 00:54:53.507] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[17Jul2025 00:54:53.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3587ms or 71 ticks behind
+[17Jul2025 00:54:56.823] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[17Jul2025 00:54:58.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[17Jul2025 00:54:58.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[17Jul2025 00:55:02.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 00:55:12.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> WENASW
+[17Jul2025 00:56:05.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[17Jul2025 00:56:05.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[17Jul2025 00:56:05.599] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[17Jul2025 00:57:15.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:41987] logged in with entity id 27142 at (916.0061141193728, 71.0, 857.0787898286675)
+[17Jul2025 00:57:15.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[17Jul2025 00:57:15.135] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[17Jul2025 00:57:15.889] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[17Jul2025 00:57:15.889] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[17Jul2025 00:57:17.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[17Jul2025 00:57:19.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[17Jul2025 00:57:19.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[17Jul2025 00:57:34.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [Diamonds!]
+[17Jul2025 00:57:37.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 00:57:42.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> gg
+[17Jul2025 00:57:46.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> RECIEN?
+[17Jul2025 01:02:24.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ESE PICO?
+[17Jul2025 01:02:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> DEJA DE PICAR LAA PIEDRA
+[17Jul2025 01:02:44.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PERDON TIERRA
+[17Jul2025 01:02:55.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> YES
+[17Jul2025 01:03:11.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no gracias
+[17Jul2025 01:03:19.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Banned joaocover: Banned by an operator.]
+[17Jul2025 01:03:19.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: You are banned from this server
+[17Jul2025 01:03:19.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[17Jul2025 01:03:19.597] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[17Jul2025 01:03:29.947] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@33bed3a9[id=ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd,name=joaocover,properties={},legacy=false] (/127.108.89.213:35953): You are banned from this server.
+Reason: Banned by an operator.
+[17Jul2025 01:03:29.947] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33bed3a9[id=ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd,name=joaocover,properties={},legacy=false] (/127.108.89.213:35953) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[17Jul2025 01:03:29.990] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jul2025 01:03:38.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Unbanned joaocover]
+[17Jul2025 01:03:43.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:36659] logged in with entity id 30276 at (923.3066421283147, 70.41999998688698, 864.3031940263342)
+[17Jul2025 01:03:43.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[17Jul2025 01:03:43.384] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[17Jul2025 01:03:44.090] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[17Jul2025 01:03:44.090] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[17Jul2025 01:03:45.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[17Jul2025 01:03:47.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[17Jul2025 01:03:47.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[17Jul2025 01:04:07.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ya digan que no quieren que juegue
+[17Jul2025 01:04:22.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ME ANDAN BAENADO CO
+[17Jul2025 01:04:31.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CONSTRUYENDO LAS CASAS
+[17Jul2025 01:04:51.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> YES
+[17Jul2025 01:05:07.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero has made the advancement [Acquire Hardware]
+[17Jul2025 01:05:31.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> que
+[17Jul2025 01:05:56.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
+[17Jul2025 01:05:57.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was shot by Skeleton
+[17Jul2025 01:05:58.544] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jul2025 01:05:58.544] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17Jul2025 01:06:01.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PDJ
+[17Jul2025 01:06:14.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> me ba fluido
+[17Jul2025 01:06:21.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to joaocover]
+[17Jul2025 01:06:36.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> 60
+[17Jul2025 01:06:47.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
+[17Jul2025 01:06:58.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> hit box
+[17Jul2025 01:07:01.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ahora habre eso
+[17Jul2025 01:07:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 01:07:13.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero has made the advancement [Reaping What You Sow]
+[17Jul2025 01:07:15.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by ServerZero
+[17Jul2025 01:07:15.814] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_17.07.2025-01.07.15.dat
+[17Jul2025 01:07:17.199] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jul2025 01:07:17.199] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Jul2025 01:07:21.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 01:07:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported joaocover to 904.630000, 80.000000, 808.440000]
+[17Jul2025 01:07:55.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> no que hitbox
+[17Jul2025 01:07:58.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 01:08:01.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> soy admin
+[17Jul2025 01:08:04.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tmr
+[17Jul2025 01:08:06.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> esta es la cuenta de sebas
+[17Jul2025 01:08:10.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> vete y no vuelvas
+[17Jul2025 01:08:29.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
+[17Jul2025 01:08:34.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> VEN
+[17Jul2025 01:08:58.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
+[17Jul2025 01:09:00.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 01:09:05.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no
+[17Jul2025 01:09:11.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to -60.500000, 63.500000, 14.500000]
+[17Jul2025 01:09:12.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SIGUEME
+[17Jul2025 01:09:42.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to joaocover]
+[17Jul2025 01:09:45.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> o no
+[17Jul2025 01:09:45.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> q?
+[17Jul2025 01:10:09.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> hablas
+[17Jul2025 01:10:13.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NELÑ
+[17Jul2025 01:10:19.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 01:10:22.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to -60.500000, 63.500000, 14.500000]
+[17Jul2025 01:10:44.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
+[17Jul2025 01:10:56.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> EN MOQUEGUA
+[17Jul2025 01:12:11.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> LOS DAWN DICEN XD
+[17Jul2025 01:12:53.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NEIN MICRO
+[17Jul2025 01:13:08.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> se le cayo al agua a mi hermano
+[17Jul2025 01:13:34.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[17Jul2025 01:13:34.855] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_17.07.2025-01.13.34.dat
+[17Jul2025 01:13:36.255] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jul2025 01:13:36.255] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17Jul2025 01:14:48.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> se compra cosas
+[17Jul2025 01:15:03.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> 10 DIAMANTES
+[17Jul2025 01:15:11.368] [Server thread/INFO] [Easy NPC/]: Opening menu e031a202-8ccd-45d2-95b7-42cc49183714 for npc fb24ba04-1d6a-4229-aa8c-e8731753045f and player ServerPlayer['ServerZero'/16418, l='ServerLevel[world]', x=-64.38, y=64.00, z=12.43] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[17Jul2025 01:15:13.017] [Server thread/INFO] [Easy NPC/]: Opening menu 2dc17b53-6b84-4cbb-b3cc-5d7d88b367c5 for npc fb24ba04-1d6a-4229-aa8c-e8731753045f and player ServerPlayer['ServerZero'/16418, l='ServerLevel[world]', x=-64.38, y=64.00, z=12.43] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Humanoid]}]
+[17Jul2025 01:15:14.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> vente pe
+[17Jul2025 01:15:30.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> DX
+[17Jul2025 01:15:45.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no soy biron
+[17Jul2025 01:15:49.697] [Server thread/INFO] [Easy NPC/]: Opening menu e4c795a7-7f35-44cc-86cd-013013065bef for npc fb24ba04-1d6a-4229-aa8c-e8731753045f and player ServerPlayer['ServerZero'/16418, l='ServerLevel[world]', x=-64.38, y=64.00, z=12.43] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[17Jul2025 01:15:49.765] [Server thread/INFO] [Easy NPC/]: Opening menu 8ee8af3f-e224-4365-a09e-22d0e23ef97d for npc fb24ba04-1d6a-4229-aa8c-e8731753045f and player ServerPlayer['ServerZero'/16418, l='ServerLevel[world]', x=-64.38, y=64.00, z=12.43] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[17Jul2025 01:15:51.650] [Server thread/INFO] [Easy NPC/]: Opening menu 7bd22a55-e6ea-4fb1-b450-70b67d84deff for npc fb24ba04-1d6a-4229-aa8c-e8731753045f and player ServerPlayer['ServerZero'/16418, l='ServerLevel[world]', x=-64.38, y=64.00, z=12.43] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Humanoid]}]
+[17Jul2025 01:16:27.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ZZZ
+[17Jul2025 01:17:07.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> noobsafio
+[17Jul2025 01:17:50.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> dan deditas por el tiempo xd
+[17Jul2025 01:17:57.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 01:18:03.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> me dieron 4
+[17Jul2025 01:19:05.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TENGO HUESOS COMO CANCHA
+[17Jul2025 01:19:26.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NI IEDA ESE BRO
+[17Jul2025 01:19:32.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd timed out
+[17Jul2025 01:19:32.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player joaocover
+[17Jul2025 01:19:32.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[17Jul2025 01:19:32.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> :C
+[17Jul2025 01:19:51.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[17Jul2025 01:19:53.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[17Jul2025 01:19:53.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[17Jul2025 01:20:43.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> byes
+[17Jul2025 01:20:48.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique lost connection: Disconnected
+[17Jul2025 01:20:48.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique left the game
+[17Jul2025 01:20:48.354] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client asrielmanrique
+[17Jul2025 01:21:22.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> per
