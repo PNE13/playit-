@@ -11487,3 +11487,19 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [17Jul2025 00:32:16.610] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [17Jul2025 00:32:27.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jul2025 00:32:27.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 00:37:27.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 00:37:27.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 00:40:57.335] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[17Jul2025 00:40:57.690] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Jul2025 00:40:57.995] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Jul2025 00:40:58.335] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[17Jul2025 00:40:58.892] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Jul2025 00:41:02.584] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[17Jul2025 00:41:03.588] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[17Jul2025 00:41:03.843] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Jul2025 00:41:04.739] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Jul2025 00:41:07.135] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[17Jul2025 00:41:07.491] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Jul2025 00:41:08.839] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Jul2025 00:42:27.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 00:42:27.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

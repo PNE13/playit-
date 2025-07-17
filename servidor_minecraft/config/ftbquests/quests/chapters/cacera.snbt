@@ -44,10 +44,11 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: -1.5d
-			y: -0.5d
+			x: -0.5d
+			y: 1.5d
 		}
 		{
+			can_repeat: true
 			id: "1FBD5C7D78B8CBA2"
 			rewards: [{
 				count: 6
@@ -62,10 +63,11 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: 0.5d
-			y: -0.5d
+			x: -0.5d
+			y: -2.5d
 		}
 		{
+			can_repeat: true
 			id: "1734F14E44577251"
 			rewards: [{
 				count: 6
@@ -84,6 +86,7 @@
 			y: -1.5d
 		}
 		{
+			can_repeat: true
 			id: "6814FF5A8323090B"
 			rewards: [{
 				count: 6
@@ -102,6 +105,7 @@
 			y: 0.5d
 		}
 		{
+			can_repeat: true
 			id: "0DC65FC74D894F2C"
 			rewards: [{
 				count: 6
@@ -116,8 +120,83 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: -0.5d
-			y: 1.5d
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "15C00EE504E6D63D"
+			rewards: [{
+				count: 6
+				id: "05B1C44BD9CD22F0"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:drowned"
+				icon: "spartanweaponry:drowned_head"
+				id: "5B7279E9BF7AFFAB"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "6ADC1BD16D20F2BE"
+			rewards: [{
+				id: "790A043B78CC8D81"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie_villager"
+				icon: "easy_npc:zombie_villager_spawn_egg"
+				id: "6DA92B18DF52CED9"
+				type: "kill"
+				value: 10L
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "00D4A00BD1E836AE"
+			rewards: [{
+				count: 3
+				id: "2F295AE3A61F2784"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:blaze"
+				icon: "spartanweaponry:blaze_head"
+				id: "396755B3C8E0C600"
+				type: "kill"
+				value: 25L
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "62EAE17190D33300"
+			rewards: [{
+				count: 12
+				id: "42212286230CB91E"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: "minecraft:netherrack"
+				id: "03D79A52E9C9FF16"
+				type: "dimension"
+			}]
+			title: "Entra al nether"
+			x: -2.0d
+			y: -0.5d
 		}
 	]
 	title: "Cacería"
