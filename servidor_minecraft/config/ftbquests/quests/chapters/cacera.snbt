@@ -6,26 +6,47 @@
 	id: "06E98C2982AB5FFE"
 	order_index: 0
 	quest_links: [ ]
-	quests: [{
-		can_repeat: true
-		hide_lock_icon: true
-		id: "7DC6048A0C32D898"
-		rewards: [{
-			count: 4
-			id: "5E378890D7D1A263"
-			item: "dedsafio3:dedita"
-			type: "item"
-		}]
-		tasks: [{
-			entity: "minecraft:zombie"
-			icon: "easy_npc:zombie_spawn_egg"
-			id: "2A82B97A233AF285"
-			title: "Kill Zombies"
-			type: "kill"
-			value: 50L
-		}]
-		x: -0.5d
-		y: -0.5d
-	}]
+	quests: [
+		{
+			can_repeat: true
+			hide_lock_icon: true
+			id: "7DC6048A0C32D898"
+			rewards: [{
+				count: 4
+				id: "5E378890D7D1A263"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "easy_npc:zombie_spawn_egg"
+				id: "2A82B97A233AF285"
+				title: "Kill Zombies"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "1CB5D3181200442D"
+			rewards: [{
+				count: 4
+				id: "7A90B651A5954DE2"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				icon: "minecraft:skeleton_skull"
+				id: "19EE348CDD3DBF53"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+	]
 	title: "Cacería"
 }
